@@ -1,0 +1,6 @@
+com\trial\psql\Controller\StdControls.class
+com\trial\psql\Repository\StdRepo.class
+com\trial\psql\Model\StdModel.class
+com\trial\psql\Model\CourseModel.class
+com\trial\psql\PsqlApplication.class
+com\trial\psql\Service\StdService.class
